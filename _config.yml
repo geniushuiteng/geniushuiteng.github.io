@@ -12,7 +12,7 @@ banner-title: Huiteng's Blog # add banner title
 banner-desc: Where a genius writing here. # add banner description
 
 # Author settings
-author-pic: # your photo
+author-pic: assets/img/avatar.jpg # your photo
 author-name: See Hui Teng # your name
 about-author: I'm Hui Teng, currently studying at Beihang University. # about author
 email: your-email@domain.com # your email
