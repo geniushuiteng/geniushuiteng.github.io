@@ -9,15 +9,15 @@ url: "geniushuiteng.github.io" # the base hostname & protocol for your site, e.g
 # Banner settings
 video: mountains.mp4 # add banner video. Add your video file to the folder video
 banner-title: Huiteng's Blog # add banner title
-banner-desc: Where a genius writing here. # add banner description
+banner-desc: 大家好 # add banner description
 
 # Author settings
-author-pic: assets/img/avatar.jpg # your photo
+author-pic: avatar.jpg # your photo
 author-name: See Hui Teng # your name
 about-author: I'm Hui Teng, currently studying at Beihang University. # about author
-email: your-email@domain.com # your email
-phone:  # your pnone number
-website: https://dwayne.example.com # you website
+email: seehuiteng70086007@gmail.com # your email
+phone: - # your pnone number
+website: https://geniushuiteng.github.io # you website
 
 # Social link
 google_url:    # add url link
@@ -28,7 +28,7 @@ dribbble_url:  # add url link
 facebook_url:  # add url link
 
 # Disqus
-discus_identifier: mr-brown # add your discus identifier.  Not your username.  To get this, register your forum here with a unique ID: https://disqus.com/admin/create/
+discus_identifier:  # add your discus identifier.  Not your username.  To get this, register your forum here with a unique ID: https://disqus.com/admin/create/
 
 # Newsletter
 mailchimp: # add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
